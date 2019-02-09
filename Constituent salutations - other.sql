@@ -1,0 +1,2 @@
+use RE7
+select * from CONSTITUENT_SALUTATION
